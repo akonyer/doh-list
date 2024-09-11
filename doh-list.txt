@@ -1,91 +1,3 @@
-#1c30ae8dab3c20b9f622431c5310e984c9a383f34804bd67f125e5e397d27ced
-#
-# DNS-over-HTTPS Providers
-# Compiled from curl/curl wiki
-#
-# POTENTIAL PROBLEM DOMAINS:
-#   !!! These DoT resolvers are at a base url, so blocking these providers
-#   !!! may block regular web access to these services.
-#
-#	adblockersite.com
-#	adfreedns.top
-#	affcdn.net
-#	affsoft.cc
-#	ahoj.email
-#	atris.cyou
-#	bazooki-infra.dev
-#	bestwon203.com
-#	cloudflare-dns.com
-#	cubedns.com
-#	deep-henchman-excuse.cfd
-#	doh.sb
-#	dns0.eu
-#	dnsforge.de
-#	dnslow.me
-#	dns.pub
-#	dnssilo.top
-#	dnswarden.com
-#	github.com
-#	dnswarden.com
-#	dns9.cfd
-#	doh.beauty
-#	doh.buzz
-#	3dns.eu
-#	do-39574-tr.xyz
-#	dukun.de
-#	xn--durhre-yxa.de
-#	eliatofani.ovh
-#	eth.link
-#	farewellkou.click
-#	nicsezcheckfbi.gov
-#	doh.li
-#	dns.google
-#	8888.google
-#	hfgx.shop
-#	ikarosalpha.xyz
-#	jkdns.me
-#	kaiwu.xyz
-#	ko-18948-tr.xyz
-#	kx-97795-tr.xyz
-#	lesuo.top
-#	loadlow.me
-#	lukscasino-929-tr.xyz
-#	lukscasino-479-tr.xyz
-#	lukscasino-542-tr.xyz
-#	masters-of-cloud.de
-#	mendozasdelivery.com
-#	mikezhang.xyz
-#	miniapp.sh
-#	mnrv.trade
-#	myatris.sbs
-#	doh.lv
-#	ns3.cx
-#	ns3.link
-#	dns8.org
-#	ns3.com
-#	n0.eu
-#	pashagame456.com
-#	safeservedns.com
-#	squidmall.vip
-#	sunnygyl.com
-#	tecdrive.site
-#	tributh.net
-#	tuskythehusky.tech
-#	vorlif.org
-#	wikimedia-dns.org
-#	xholgm.top
-#	your-dns.run
-#	zakaria.website
-#	princez.uk
-#	zdn.ro
-#	0ms.dev
-#	0ms.dev
-#	003153.xyz
-#	123000123.xyz
-#	3dcosas.xyz
-#	351242444.xyz
-#
-
 resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
@@ -328,8 +240,6 @@ dns.dnshome.de
 dnslow.me
 dns.pub
 dnssilo.top
-dnswarden.com
-github.com
 dnswarden.com
 dns9.cfd
 doh.beauty
